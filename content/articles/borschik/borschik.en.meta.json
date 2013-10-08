@@ -1,0 +1,15 @@
+{
+    "title": "Borschik",
+    "createDate": "22-04-2013",
+    "editDate": "04-07-2013",
+    "summary": "Borschik is a simple but powerful builder for text-based file formats.",
+    "thumbnail": "",
+    "authors": ["androsov-alexey"],
+    "tags": ["tools","borschik"],
+    "categories": ["builders/borschik"],
+    "translators": [""],
+    "url": "content/articles/borschik/",
+    "type": "tools",
+    "slug": "",
+    "root": "true"
+}
