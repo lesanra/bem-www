@@ -42,6 +42,6 @@
 
 Текущие вакансии:
 -----------------
-  * ((http://company.yandex.ru/job/vacancies/dev_web_interface.xml Разработчик общих интерфейсов))
+  * [Разработчик общих интерфейсов](http://company.yandex.ru/job/vacancies/dev_web_interface.xml)
 
 
